@@ -1,2 +1,2 @@
-# Day-1-Assignment
-My Day-1 Assignment pdf
+# Daily-Assignments
+My Daily Assignment pdfs
